@@ -1,0 +1,13 @@
+{
+  "input": "./gallery",
+  "output": "./build_output",
+  "title": "fqp",        // 改这里：你的网站标题
+  "sort-albums-by": "title",
+  "sort-media-by": "filename",
+  "download-photos": "copy",
+  "cleanup": true,
+  "theme": "cards",                // 改这里：选择主题样式
+  "css": "./custom.css",
+  "footer": "Copyright © 2026 aassdd",      // 改这里：你的版权信息
+  "usage-stats": false
+}
